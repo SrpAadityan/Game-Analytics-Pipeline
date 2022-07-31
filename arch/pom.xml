@@ -15,6 +15,10 @@
       <artifactId>google-cloud-dataflow-java-sdk-all</artifactId>
       <version>2.2.0</version> 
     </dependency>
-   
+           
+   <mainClass>
+            RawEventPipeline
+   </mainClass>
+           
  </dependencies>  
 </project>
